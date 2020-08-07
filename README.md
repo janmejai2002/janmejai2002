@@ -13,10 +13,7 @@
 ### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-janmejai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmejai-singh-minhas/)](https://www.linkedin.com/in/janmejai-singh-minhas/)
-
 [![Gmail](https://img.shields.io/badge/-janmejai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmejai2002@gmail.com)](mailto:janmejai2002@gmail.com)
-
-<br />
 
 ### Languages, Frameworks, Libraries, Tools I use :
 
@@ -38,13 +35,13 @@
 
 ---
 
-Do Check Out :
+#### Do Check Out :
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janmejai2002&repo=Webcam-Data-Utility)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janmejai2002&repo=Webcam-Data-Utility&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<img align="left" alt="janmejai2002's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+<img align="left" alt="janmejai2002" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 [linkedin]: https://www.linkedin.com/in/janmejai-singh-minhas/
 [vscode]: https://code.visualstudio.com/
