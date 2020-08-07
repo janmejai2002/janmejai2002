@@ -32,4 +32,3 @@
 [tensorflow]: https://www.tensorflow.org/
 [opencv]: https://opencv.org/
 [github]: https://github.com/
-[]
