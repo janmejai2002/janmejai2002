@@ -55,4 +55,4 @@ Do Check Out :
 [keras]: https://keras.io/
 [git]: https://git-scm.com/
 
-Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these aamazing visualizations.
+Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these amazing visualizations.
