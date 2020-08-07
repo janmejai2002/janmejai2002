@@ -1,22 +1,24 @@
-### Hii, I'm Janmejai
+## Hii, I'm Janmejai <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-## I'm currently pursuing B.E in Information Technology.
+#### I'm pursuing B.E in Information Technology.
 
 - 🖼 I'm currently exploring Deep Learing.
-- 🎈 I'm currently learning Natural Language Processing
+- 🎈 Learning about Natural Language Processing
 - 🤖 I'm also making projects related to computer vision
-- 😎 I'm also trying to improve my skills in `Python` and `C++`
+- 😎 Coding everyday to improve my skills in `Python` and `C++`
 - 😍 I'm really fond of `Python`.
 - 🙌 I have also started to contribute in open-source.
 
 ### Connect with me:
 
-[<img align="left" alt="Janmejai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin](https://img.shields.io/badge/-janmejai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmejai-singh-minhas/)](https://www.linkedin.com/in/janmejai-singh-minhas/)
+
+[![Gmail](https://img.shields.io/badge/-janmejai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmejai2002@gmail.com)](mailto:janmejai2002@gmail.com)
 
 <br />
 
-### Languages and Tools:
+### Languages, Frameworks, Libraries, Tools I use :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://png2.cleanpng.com/sh/40dbbb109e8655b242dc5c9d1f05e869/L0KzQYm3U8IxN6J9iZH0aYP2gLBuTfFvb51qReZueISwg8r0gv9tNZN3edDtLXB3eLb5TgB6fJl0hp8AYXKzc4GCgslmaWJmT5C8Mki5SYOAVcE2OmI6S6U5OEO5RIqBTwBvbz==/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" />][python]
@@ -54,5 +56,6 @@ Do Check Out :
 [jupyter]: https://jupyter.org/
 [keras]: https://keras.io/
 [git]: https://git-scm.com/
+
 
 Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these amazing visualizations.
