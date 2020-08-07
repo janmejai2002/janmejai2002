@@ -1,5 +1,6 @@
 ### Hii, I'm Janmejai
 
+
 ## I'm currently pursuing B.E in Information Technology.
 
 - 🖼 I'm currently exploring Deep Learing.
@@ -31,12 +32,17 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<img align="left" alt="janmejai2002's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+Do Check Out :
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janmejai2002&repo=Webcam-Data-Utility)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<img align="left" alt="janmejai2002's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 [linkedin]: https://www.linkedin.com/in/janmejai-singh-minhas/
 [vscode]: https://code.visualstudio.com/
@@ -48,3 +54,5 @@
 [jupyter]: https://jupyter.org/
 [keras]: https://keras.io/
 [git]: https://git-scm.com/
+
+Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these aamazing visualizations.
