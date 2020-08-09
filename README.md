@@ -31,9 +31,8 @@
 [<img align="left" alt="Dart" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg"/>][dart]
 
 
-</br>
 
----
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
