@@ -17,7 +17,7 @@
 
 ### Languages, Frameworks, Libraries, Tools I use :
 
-
+[<img align="left" alt="Android Studio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />][android]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="40px" src="https://png2.cleanpng.com/sh/40dbbb109e8655b242dc5c9d1f05e869/L0KzQYm3U8IxN6J9iZH0aYP2gLBuTfFvb51qReZueISwg8r0gv9tNZN3edDtLXB3eLb5TgB6fJl0hp8AYXKzc4GCgslmaWJmT5C8Mki5SYOAVcE2OmI6S6U5OEO5RIqBTwBvbz==/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" />][python]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>][tensorflow]
@@ -31,7 +31,7 @@
 [<img align="left" alt="Dart" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg"/>][dart]
 
 </br>
----
+
 
 </br>
 
@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
+
 
 #### Do Check Out :
 
@@ -61,6 +61,7 @@
 [git]: https://git-scm.com/
 [flutter]: https://flutter.dev/
 [dart]: https://dart.dev/
+[android]: https://developer.android.com/
 
 
 Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these amazing visualizations.
