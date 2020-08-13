@@ -23,8 +23,6 @@
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>][tensorflow]
 [<img align="left" alt="GitHub" width="100px" src="https://keras.io/img/logo.png" />][keras]
 [<img align="left" alt="OpenCV" width="40px" src="https://png2.cleanpng.com/sh/7e1c8d290faf275f6239150d3ebab9f9/L0KzQYm3WMExN6Z7R91yc4Pzfri0jCBmdpR7RdU2cIn3eLF1TfNwdaF6jNd7LYbsg7r2jr1tcZN3eeRELXfzhX70jBR2dJYyfAJALXHmc7bzhgJifJZpRdV4bYD4hLb5TgZqe5p0hp94cHXxPYbpVvRnQWZqTaIBMUK3Poe9U8Y2PGgASac8M0m2Q4q4WMMzQWMziNDw/kisspng-opencv-c-python-computer-vision-library-gpu-module-gpu-accelerated-computer-vision-open-5b6df95e506124.6636547915339339183292.png" />][opencv]
-
-
 [<img align="left" alt="GitHub" width="40px" src="https://numpy.org/images/logos/numpy.svg" />][numpy]
 [<img align="left" alt="GitHub" width="42px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
