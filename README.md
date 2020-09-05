@@ -41,10 +41,6 @@
 
 
 
-#### Do Check Out :
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janmejai2002&repo=Webcam-Data-Utility&theme=vue)](https://github.com/janmejai2002/Webcam-Data-Utility)
-
 ---
 
 <img align="left" alt="janmejai2002" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
