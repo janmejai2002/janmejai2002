@@ -3,7 +3,6 @@
 ### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-janmejai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmejai-singh-minhas/)](https://www.linkedin.com/in/janmejai-singh-minhas/)
-[![Gmail](https://img.shields.io/badge/-janmejai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmejai2002@gmail.com)](mailto:janmejai2002@gmail.com)
 
 ### Languages, Frameworks, Libraries, Tools I use :
 
