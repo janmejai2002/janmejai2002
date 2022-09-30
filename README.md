@@ -1,15 +1,5 @@
 ## Hii, I'm Janmejai
 
-
-#### I'm pursuing B.E in Information Technology.
-
-- 🖼 I'm currently exploring Deep Learing.
-- 🎈 Learning about Natural Language Processing
-- 🤖 I'm also making projects related to computer vision
-- 😎 Coding everyday to improve my skills in `Python` and `C++`
-- 😍 I'm really fond of `Python`.
-- 🙌 I have also started to contribute in open-source.
-
 ### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-janmejai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmejai-singh-minhas/)](https://www.linkedin.com/in/janmejai-singh-minhas/)
