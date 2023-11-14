@@ -1,8 +1,5 @@
-## Hii, I'm Janmejai
+## Hi
 
-### Connect with me:
-
-[![Linkedin](https://img.shields.io/badge/-janmejai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmejai-singh-minhas/)](https://www.linkedin.com/in/janmejai-singh-minhas/)
 
 ### Languages, Frameworks, Libraries, Tools I use :
 
@@ -33,7 +30,6 @@
 
 <img align="left" alt="janmejai2002" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-[linkedin]: https://www.linkedin.com/in/janmejai-singh-minhas/
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
@@ -48,4 +44,3 @@
 [android]: https://developer.android.com/
 
 
-Massive thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these amazing visualizations.
