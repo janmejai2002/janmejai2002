@@ -1,46 +1,66 @@
-## Hi
+# 🚀 Janmejai | Full-Stack Engineer & Generative UI Specialist
 
-
-### Languages, Frameworks, Libraries, Tools I use :
-
-[<img align="left" alt="Android Studio" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/256px-Android_Studio_Trademark.svg.png" />][android]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />][python]
-[<img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>][tensorflow]
-[<img align="left" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />][keras]
-[<img align="left" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />][opencv]
-[<img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png"/>][flutter]
-[<img align="left" alt="Dart" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg"/>][dart]
-
-
-</br>
-</br>
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
+### 💫 About Me
+I'm a **2026-focused developer** dedicated to building immersive, high-performance web and mobile applications. From architecting scalable cloud backends to crafting glassmorphic, micro-animated user interfaces, I merge technical precision with aesthetic excellence.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+- 🔭 **Currently working on**: Mission-critical campus hospitality solutions.
+- ⚡ **Specialties**: Glassmorphism, PWA, Real-time Notification Systems, and Generative AI logic.
+- 🎯 **Goal**: Elevating every user interaction to a "Premium" standard.
 
 ---
 
-<img align="left" alt="janmejai2002" src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+### 🛠️ Tech Stack & Arsenal
 
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/
-[tensorflow]: https://www.tensorflow.org/
-[opencv]: https://opencv.org/
-[github]: https://github.com/
-[numpy]: https://numpy.org/
-[jupyter]: https://jupyter.org/
-[keras]: https://keras.io/
-[git]: https://git-scm.com/
-[flutter]: https://flutter.dev/
-[dart]: https://dart.dev/
-[android]: https://developer.android.com/
+#### 🌐 Frontend & UI/UX
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+#### 🗄️ Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### 🧠 Machine Learning & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+#### [☕ Nescafe Campus 2026](https://nescafe-campus-559261808668.us-central1.run.app)
+A premium, real-time pre-ordering platform for campus hospitality.
+- **Unified Cloud Run Architecture** for maximum scalability.
+- **Advanced Glassmorphism UI** with auditory "Haptic" feedback.
+- **Full PWA Support** for a native "Always-On" experience.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janmejai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janmejai2002@gmail.com)
+
+<div align="right">
+  <i>"Code is poetry, performance is the rhythm."</i> — 2026
+</div>
 
 
