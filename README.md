@@ -1,4 +1,4 @@
-# 🚀 Janmejai | Full-Stack Engineer & Generative UI Specialist
+# 🚀 Hi I am Janmejai !
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janmejai2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -8,11 +8,10 @@
 ---
 
 ### 💫 About Me
-I'm a **2026-focused developer** dedicated to building immersive, high-performance web and mobile applications. From architecting scalable cloud backends to crafting glassmorphic, micro-animated user interfaces, I merge technical precision with aesthetic excellence.
+I'm a PGDM Business Management Student at XLRI, navigating subjects that spam from Financial Management to Organisational Behaviour. I have a passion for automation, working with AI, AI Governance and LLM Red Teaming Research. On the dev side, I've been working on building websites and tools to help my campus establish software that builds legacy. 
 
-- 🔭 **Currently working on**: Mission-critical campus hospitality solutions.
-- ⚡ **Specialties**: Glassmorphism, PWA, Real-time Notification Systems, and Generative AI logic.
-- 🎯 **Goal**: Elevating every user interaction to a "Premium" standard.
+Recently I've also been taking part in competitions on Grayswan where I red team unreleased AI models to find vulnerabilities. 
+
 
 ---
 
