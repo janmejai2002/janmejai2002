@@ -43,16 +43,7 @@ Recently I've also been taking part in competitions on Grayswan where I red team
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
 
-### 🌟 Featured Projects
-#### [☕ Nescafe Campus 2026](https://nescafe-campus-559261808668.us-central1.run.app)
-A premium, real-time pre-ordering platform for campus hospitality.
-- **Unified Cloud Run Architecture** for maximum scalability.
-- **Advanced Glassmorphism UI** with auditory "Haptic" feedback.
-- **Full PWA Support** for a native "Always-On" experience.
-
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janmejai)
